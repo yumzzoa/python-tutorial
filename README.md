@@ -1,2 +1,2 @@
-# study-python
-파이썬을 공부하는 곳입니다.
+# python-tutorial
+**파이썬**을 공부하는 곳입니다.
